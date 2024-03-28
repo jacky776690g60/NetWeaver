@@ -1,0 +1,26 @@
+#### basic
+**/__pycache__/
+**/geckodriver.log
+
+# output
+output/
+
+# Python
+venv/
+
+# Config
+config/*.jsonc
+
+# drivers
+drivers/chrome/*/
+
+##########################################################################
+# Handle in sync.sh script
+##########################################################################
+####
+# netweaver/netweaver.py
+
+#### linkedin
+# config/*
+# linkedin_houdini.py
+
