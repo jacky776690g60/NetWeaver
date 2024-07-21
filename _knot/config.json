@@ -13,6 +13,7 @@
     ".git", 
     "*/venv", 
     "*/__pycache__", 
-    "*/node_modules"
+    "*/node_modules",
+    "**/_knot/refs"
   ]
 }
