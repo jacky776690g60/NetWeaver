@@ -1,0 +1,18 @@
+{
+  "extensions": [
+    ".py", ".js", ".ts", 
+    ".java", 
+    ".c", ".h", ".cpp", ".hpp"
+  ],
+  "specific_files": [
+    
+  ],
+  "skip_folders": [
+    "*/dist", 
+    ".vscode", 
+    ".git", 
+    "*/venv", 
+    "*/__pycache__", 
+    "*/node_modules"
+  ]
+}
