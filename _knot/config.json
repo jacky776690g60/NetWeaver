@@ -12,6 +12,7 @@
     ".vscode", 
     ".git", 
     "*/venv", 
+    "*/nwvenv", 
     "*/__pycache__", 
     "*/node_modules",
     "**/_knot/refs"

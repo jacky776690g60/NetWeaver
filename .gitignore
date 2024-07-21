@@ -10,7 +10,7 @@ config/*.jsonc
 drivers/chrome/*/
 
 # Python
-venv/
+nwvenv/
 
 
 

@@ -21,9 +21,9 @@ Built upon Selenium, this suite of tools aims to achieve easier automations for 
 
 1. `git clone --recurse-submodules https://github.com/jacky776690g60/NetWeaver.git` clone the repo first.
 2. (Optional) Create a Python virtual environment and activate it.
-   1. `python3 -m venv venv`
+   1. `python3 -m venv nwvenv`
    2. activate
-      1. `source venv/bin/activate` on mac
+      1. `source nwvenv/bin/activate` on mac
 3. `pip install -r requirements.txt`
 4. (Optional) <a href='#run_test'>Run Test</a> to see if package is working.
 
