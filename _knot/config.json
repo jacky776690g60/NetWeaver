@@ -1,9 +1,5 @@
 {
-  "extensions": [
-    ".py", ".js", ".ts", 
-    ".java", 
-    ".c", ".h", ".cpp", ".hpp"
-  ],
+  "extensions": [".py", ".js", ".ts", ".java", ".c", ".h", ".cpp", ".hpp"],
   "specific_files": [
     
   ],
@@ -11,10 +7,10 @@
     "*/dist", 
     ".vscode", 
     ".git", 
-    "*/venv", 
-    "*/nwvenv", 
+    "**/*venv", 
+    "**/_knot", 
+    "**/_Knot", 
     "*/__pycache__", 
-    "*/node_modules",
-    "**/_knot/refs"
+    "*/node_modules"
   ]
 }
