@@ -10,7 +10,7 @@
     "**/*venv", 
     "**/_knot", 
     "**/_Knot", 
-    "*/__pycache__", 
-    "*/node_modules"
+    "**/__pycache__", 
+    "**/node_modules"
   ]
 }
