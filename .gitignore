@@ -4,6 +4,8 @@
 
 # any output
 output/
+# any data
+data/
 # Config
 config/*.jsonc
 # drivers
