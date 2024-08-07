@@ -10,6 +10,7 @@ data/
 config/*.jsonc
 # drivers
 drivers/chrome/*/
+chrome_profiles/
 
 # Python
 nwvenv/
