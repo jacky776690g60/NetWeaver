@@ -19,4 +19,4 @@ nwvenv/
 
 
 **/*.py
-!_knot/refs/*.py
+!_knot_*/refs/*.py
