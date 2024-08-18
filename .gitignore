@@ -1,0 +1,22 @@
+#### basic
+**/__pycache__/
+**/geckodriver.log
+
+# any output
+output/
+# any data
+data/
+# Config
+config/*.jsonc
+# drivers
+drivers/chrome/*/
+# Cache
+cache/
+
+# Python
+nwvenv/
+
+
+
+**/*.py
+!_knot/refs/*.py

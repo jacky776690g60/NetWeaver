@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    "acc1",
+    "acc2"
+  ],
+  "passwords": [
+    "pwd1",
+    "pwd2"
+  ],
+  "chrome": {
+    "binary_location": "path_to_chrome_binary_location_like exe",
+    "driver_executable": "path_to_chrome_driver_folder_location"
+  }
+}

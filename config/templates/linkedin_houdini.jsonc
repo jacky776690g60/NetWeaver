@@ -1,0 +1,71 @@
+{
+  "user": {
+    "account":  "xxx@xxx",
+    "password": "xxx"
+  },
+  "ignore_companies": [
+
+  ],
+  "text": {
+    "yrs_of_exp": { /* This part of questions always contains texts like 'years of', 'skill' */
+      "technical support":                      0,
+      "active directory":                       0,
+      "business analysis":                      0,
+      "vmware":                                 0,
+      "remote desktop":                         0,
+      "microsoft office":                       0,
+      "operating system":                       0,
+      "docker":                                 1,
+      "kubernetes":                             0,
+      "Microsoft Exchange":                     0,
+      "help desk support":                      0,
+      "Windows":                                2,
+      "adobe creative suite":                   3,
+      "information technology":                 1,
+      "Internet Information Services":          0,
+      "Windows Server":                         0,
+      "Bloomberg":                              0,
+      "ServiceNow":                             0,
+      "Service Desk":                           0,
+      "Powershell":                             0,
+      "Software as a Service":                  0,
+      "Firewall":                               0,
+      "Azure":                                  0,
+      "Hyper-V":                                0,
+      "Windows 11":                             2,
+      "Mac":                                    2
+    }
+  },
+  "radio": {
+    /*
+     * This section uses keywords to look for potential questions. 
+     * 
+     * 1. Please seperate keywords with '|'
+     * 2. // it will ignore special character like single quote
+     */
+    "yes_no": {
+      "completed|high school":                    "yes",
+      "completed|Associate":                      "yes",
+      "completed|Bachelor":                       "yes",
+      "completed|Master":                         "yes",
+      "comfortable|working|onsite":               "yes",
+      "comfortable|commuting":                    "yes",
+      "legally|authorized|work|United States":    "yes",
+      "can|start|immediately":                    "yes",
+      "require|sponsorship":                      "yes",
+      "willing|undergo|background check":         "yes",
+      "license|Certified Cloud Security Professional":               "yes",
+      "license|Certified Information Systems Security Professional": "yes",
+      "license|Certified Information Security Manager":              "yes"
+    }
+    // "multi": {
+
+    // }
+  },
+  "dropdown": {
+    "Phone|country|code": "Taiwan (+886)",
+    // "Phone|country|code": "United States (+1)",
+    "understanding|wifi": "yes"
+
+  }
+}
