@@ -1,0 +1,17 @@
+{
+  "extensions": [".py"],
+  "specific_files": [
+    
+  ],
+  "skip_folders": [
+    "*/dist", 
+    ".vscode", 
+    ".git", 
+    "**/*venv",
+    "nwvenv",
+    "**/_knot", 
+    "**/_Knot", 
+    "**/__pycache__", 
+    "**/node_modules"
+  ]
+}

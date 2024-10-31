@@ -1,4 +1,0 @@
-{
-  "binary_location":   "./drivers/chrome/123.0.6262.0/chrome-mac-x64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing", // replace the correct path for this
-  "driver_executable": "./drivers/chrome/123.0.6262.0/chromedriver-mac-x64/chromedriver" // replace the correct path for this
-}

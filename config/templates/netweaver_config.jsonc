@@ -1,0 +1,4 @@
+{
+  "chrome_browser_binary_path":   "./drivers/chrome/126.0.6478.182/chrome-mac-x64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing", // replace the correct path for this
+  "chrome_driver_executable_path": "./drivers/chrome/126.0.6478.182/chromedriver-mac-x64/chromedriver" // replace the correct path for this
+}
